@@ -1,0 +1,9 @@
+smart-course-search/
+├── app.py
+├── models/
+│   ├── search_model.py
+├── data/
+│   ├── courses.csv  # Course data
+├── requirements.txt
+├── README.md
+└── utils.py

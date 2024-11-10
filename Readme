@@ -1,0 +1,21 @@
+# Smart Course Search
+
+## Setup
+1. Install requirements: `pip install -r requirements.txt`
+2. Load course data in `data/courses.csv`.
+
+## Usage
+Run the search:
+```bash
+python app.py
+
+
+### 4. Hosting on GitHub
+1. Initialize a Git repository and commit your code.
+2. Push to GitHub:
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit of smart search system"
+   git remote add origin <your-github-repo-url>
+   git push -u origin main
