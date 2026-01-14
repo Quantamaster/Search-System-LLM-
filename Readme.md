@@ -18,6 +18,7 @@ It is designed to improve course discoverability using **NLP and machine learnin
 ## 📑 Table of Contents
 
 * [Overview](#-overview)
+* [App Preview](#-app-preview-smart-search-llm)
 * [Features](#-features)
 * [Project Structure](#-project-structure)
 * [Tech Stack](#-tech-stack)
@@ -37,6 +38,21 @@ Traditional keyword-based search often fails to capture user intent.
 
 ---
 
+## 🚀 App Preview (Smart Search LLM)
+
+🔗 **Live App Preview:**
+👉 [https://ai.studio/apps/drive/1OZ6O_TCD3DJ6rLg2Ke_PStHaO_jhoFN2](https://ai.studio/apps/drive/1OZ6O_TCD3DJ6rLg2Ke_PStHaO_jhoFN2)
+
+This preview showcases the **Smart Search LLM system** in action, demonstrating:
+
+* Semantic query understanding using Large Language Models
+* Context-aware search results beyond keyword matching
+* Intelligent ranking of retrieved results
+* End-to-end search → retrieval → evaluation workflow
+
+> ⚠️ *Note:* The app is hosted on **AI Studio** and may require sign-in access depending on permission settings.
+
+---
 ## ✨ Features
 
 * 🔎 **Semantic Course Search**
@@ -156,3 +172,4 @@ This project is licensed under the **MIT License**.
 ---
 ⭐ If this repository helps your work, consider starring it!
 Just say the word 👌
+
